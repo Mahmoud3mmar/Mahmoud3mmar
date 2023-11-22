@@ -8,7 +8,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/mahmoud-ammar-539713193/)" target="_blank"><img src="https://img.shields.io/badge/-Ammar%20Salih-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mahmoud-ammar-539713193/)" target="_blank"><img src="https://img.shields.io/badge/-Ammar%20Mahmoud-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 - 📫 How to reach me **mahmoud.ammar560@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
