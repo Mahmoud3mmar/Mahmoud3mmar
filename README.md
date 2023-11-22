@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Mahmoud Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Mahmoud Ammar</h1>
 <h3 align="center">A passionate Software developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🔭 I’m currently working on **Real Time Voice Cloning**
+- 🔭 I’m currently working on **Voick"Real Time Voice Cloning"**
 
 
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/mahmoud-ammar-539713193/)" target="_blank"><img src="https://img.shields.io/badge/-Mahmooud%20Ammar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-- 📫 How to reach me **mahmoud.ammar560@gmail.com**
+- 📫 How to reach me through email **mahmoud.ammar560@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
